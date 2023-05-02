@@ -24,7 +24,7 @@
     <a href="https://www.instagram.com/rajibrt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/rajibrt)">
+  <a href="https://twitter.com/rajibrt">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge"/>
   </a>  
     <a href="mailto:rajibrt@gmail.com">
