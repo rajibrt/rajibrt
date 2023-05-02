@@ -1,5 +1,4 @@
-https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg
-
+![Git-cover-photo](https://user-images.githubusercontent.com/69506872/235586073-49137443-dd12-4b1d-9c78-35689c7527e9.jpg)
 
 Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
