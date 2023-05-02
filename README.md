@@ -9,7 +9,7 @@
 
 
 ## About Me
-<a>https://github-readme-streak-stats.herokuapp.com/?user=rajibrt" style="max-width: 100%;"></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajibrt&theme=transparent)](https://git.io/streak-stats)
 
 ## Languages and Tools:
 <div align="left" dir="auto">
