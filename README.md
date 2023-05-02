@@ -10,7 +10,7 @@
 
 ## About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrt&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajibrt&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajibrt&theme=transparent&card_width=380)](https://git.io/streak-stats)
 
 ## Languages and Tools:
 <div align="left" dir="auto">
