@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg" alt="Kayum Image">
-### Hi there 👋
+
+Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
 - 🌱 I’m currently learning TypeScript
 <!--
