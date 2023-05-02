@@ -37,7 +37,7 @@
 
 ## Languages and Tools:
 
-<div style="display: flex; justify-content: center; gap: 4px; ">
+<div align="center" style="display: flex; justify-content: center; gap: 4px; ">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Spring" alt="Spring" width="42" height="42"/>&nbsp;
