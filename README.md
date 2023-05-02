@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/ng0Kz1f/git-cover-photo.webp](https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg)" alt="Kayum"/>
+<img src="https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg" alt="Kayum Image">
 ### Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
 - 🌱 I’m currently learning TypeScript
