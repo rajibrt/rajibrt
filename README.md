@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg" alt="Kayum Image">
+<div>
+  <img src="https://i.ibb.co/VvJJQHn/Git-cover-photo.jpg" alt="Kayum Image">
+  </div>
 
 Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
