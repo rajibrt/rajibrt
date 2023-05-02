@@ -1,5 +1,9 @@
 ![Git-cover-photo](https://user-images.githubusercontent.com/69506872/235586073-49137443-dd12-4b1d-9c78-35689c7527e9.jpg)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
 - 🌱 I’m currently learning TypeScript
