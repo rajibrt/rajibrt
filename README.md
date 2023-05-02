@@ -32,8 +32,12 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrt&show_icons&card_width=444=true&theme=radical)
+<p align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrt&show_icons&card_width=444=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rajibrt&theme=transparent&card_width=380)](https://git.io/streak-stats)
+  
+ </p>
 
 ## Languages and Tools:
 
