@@ -1,5 +1,4 @@
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="[https://camo.githubusercontent.com/c6fcff808da521d9a9cec430daace22c1611d244f36d9be5522e2c22fac2cb5c/68747470733a2f2f692e6962622e636f2f63624e76476d722f426c61636b2d5265642d486f6f6469652d436f7374756d652d53747265616d696e672d5477697463682d42616e6e6572732e706e67](https://i.ibb.co/ng0Kz1f/git-cover-photo.webp)"><img align="center" src="[https://camo.githubusercontent.com/c6fcff808da521d9a9cec430daace22c1611d244f36d9be5522e2c22fac2cb5c/68747470733a2f2f692e6962622e636f2f63624e76476d722f426c61636b2d5265642d486f6f6469652d436f7374756d652d53747265616d696e672d5477697463682d42616e6e6572732e706e67](https://i.ibb.co/ng0Kz1f/git-cover-photo.webp)" alt="skb's" data-canonical-src="https://i.ibb.co/cbNvGmr/Black-Red-Hoodie-Costume-Streaming-Twitch-Banners.png" style="max-width: 100%;"></a></p>
+<img src="https://i.ibb.co/ng0Kz1f/git-cover-photo.webp" alt="Kayum"/>
 ### Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
 - 🌱 I’m currently learning TypeScript
