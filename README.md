@@ -9,9 +9,10 @@
 
 
 ## About Me
+<div align="center" dir="auto">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibrt&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rajibrt&theme=transparent&card_width=380)](https://git.io/streak-stats)
-
+  </div>
 ## Languages and Tools:
 <div align="left" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" width="52" alt="vscode logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
