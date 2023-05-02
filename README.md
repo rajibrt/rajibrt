@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working a new eCommerce project
-🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working a new eCommerce project
+- 🌱 I’m currently learning TypeScript
 <!--
 **rajibrt/rajibrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
