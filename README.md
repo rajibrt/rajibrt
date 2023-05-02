@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.facebook.com/rajibrt">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="FaceBook Badge"/>  </a>
   <a href="https://www.linkedin.com/in/rajibrt">
