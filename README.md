@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajibrt)](https://github.com/rajibrt/github-profile-trophy)
   
 </div>
-### Hi there 👋
-- 🔭 I’m currently working a new eCommerce project
-- 🌱 I’m currently learning TypeScript
+###Hi there 👋
+-🔭 I’m currently working a new eCommerce project
+-🌱 I’m currently learning TypeScript
 
 ![snake](https://user-images.githubusercontent.com/69506872/235589295-fb104a1d-f339-4a11-818c-c85ae41cb11b.svg)
 
