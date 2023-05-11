@@ -5,7 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajibrt)](https://github.com/rajibrt/github-profile-trophy)
   
 </div>
-###Hi there 👋
+
+# Hi there 👋
 -🔭 I’m currently working a new eCommerce project
 -🌱 I’m currently learning TypeScript
 
