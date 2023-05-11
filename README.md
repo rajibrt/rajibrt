@@ -1,6 +1,6 @@
 ![Git-cover-photo](https://user-images.githubusercontent.com/69506872/235586073-49137443-dd12-4b1d-9c78-35689c7527e9.jpg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajibrt&row=2&column=3)](https://github.com/rajibrt/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajibrt&row=2&column=6)](https://github.com/rajibrt/github-profile-trophy)
 ### Hi there 👋
 - 🔭 I’m currently working a new eCommerce project
 - 🌱 I’m currently learning TypeScript
