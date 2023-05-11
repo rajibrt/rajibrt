@@ -10,7 +10,7 @@
 
 
 ## About Me
-(https://github-profile-trophy.vercel.app/?username=rajibrt&row=1&column=6&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajibrt)](https://github.com/rajibrt/github-profile-trophy)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
