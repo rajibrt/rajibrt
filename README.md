@@ -9,7 +9,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working a new eCommerce project
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript & Mongoosejs
 
 ![snake](https://user-images.githubusercontent.com/69506872/235589295-fb104a1d-f339-4a11-818c-c85ae41cb11b.svg)
 
